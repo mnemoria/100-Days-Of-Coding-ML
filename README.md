@@ -11,3 +11,7 @@ This repository is where I document my journey of learning machine learning from
  - Palindrome checker
  - Simple command-line calculator
  - Expression calculator
+
+### DAY 2
+ - Rot(n) cipher encoder/decoder
+ - A1Z26 cipher encoder/decoder
