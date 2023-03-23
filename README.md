@@ -15,3 +15,7 @@ This repository is where I document my journey of learning machine learning from
 ### DAY 2
  - Rot(n) cipher encoder/decoder
  - A1Z26 cipher encoder/decoder
+
+ ### DAY 3
+  - Completed Week 1 to Week 3 of "Course 1: Crash Course on Python" from *Google IT Automation with Python* course
+  - Command-line inventory management 
