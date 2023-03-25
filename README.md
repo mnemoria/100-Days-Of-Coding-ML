@@ -22,4 +22,7 @@ This repository is where I document my journey of learning machine learning from
 
 ### DAY 4
  - Completed half of the contents for Week 4 of "Course 1: Crash Course on Python"
-- List comprehension practice problems
+ - List comprehension practice problems
+
+### DAY 5
+ - Practiced in codewars. Solutions are posted on Day 5.
