@@ -15,8 +15,8 @@ The parameter of accum is a string which includes only letters from a..z and A..
 # My solution
 def accum(s):
     string = ""
-    count = 0
     
+    count = 0
     for character in s:
         string += character.upper()
         string += (count * character.lower())

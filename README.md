@@ -25,4 +25,8 @@ This repository is where I document my journey of learning machine learning from
  - List comprehension practice problems
 
 ### DAY 5
- - Practiced in codewars. Solutions are posted on Day 5.
+ - Practiced in codewars.com. Solutions are posted on Day 5.
+
+### DAY 6
+ - Created an article on medium titled Unlocking the Power of Data Science: Mastering Python Fundamentals : https://medium.com/@MaryGrizelleHamor/unlocking-the-power-of-data-science-mastering-python-fundamentals-9217c3cc8a11
+ - Tried a practice problem in codewars.com.
