@@ -28,5 +28,15 @@ This repository is where I document my journey of learning machine learning from
  - Practiced in codewars.com. Solutions are posted on Day 5.
 
 ### DAY 6
- - Created an article on medium titled Unlocking the Power of Data Science: Mastering Python Fundamentals : https://medium.com/@MaryGrizelleHamor/unlocking-the-power-of-data-science-mastering-python-fundamentals-9217c3cc8a11
+ - Created an article on medium titled *"Unlocking the Power of Data Science: Mastering Python Fundamentals"* : https://medium.com/@MaryGrizelleHamor/unlocking-the-power-of-data-science-mastering-python-fundamentals-9217c3cc8a11
  - Tried a practice problem in codewars.com.
+
+### DAY 7
+ - Completed ***Corey Schafer***'s *"Python OOP Tutorials - Working with Classes"* playlist: https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
+ - Started watching ***freeCodeCamp***'s *"Object Oriented Programming with Python - Full Course for Beginners"* : https://www.youtube.com/watch?v=Ej_02ICOIgs
+ - Completed a practice problem in codewars.com.
+
+<br>
+
+## Week 2
+**Reviewing Object-Oriented Programming with Python, including topics such as classes and instances, class methods, static methods, and dunder methods, and its four principles to ensure a maintainable and readable programs.**
