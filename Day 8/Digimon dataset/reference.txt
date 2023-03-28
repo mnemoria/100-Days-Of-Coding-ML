@@ -1,0 +1,4 @@
+Digimon Database 
+by Rachel Tatman
+
+Link: https://www.kaggle.com/datasets/rtatman/digidb

@@ -5,7 +5,7 @@ This repository is where I document my journey of learning machine learning from
 <br>
 
 ## Week 1
-**Reviewing the fundamentals of Python, including topics such as variables, operations, control flow, and commonly used data structures to ensure a solid understanding.**
+**Reviewing the fundamentals of Python, including topics such as variables, operations, control flow, commonly used data structures, and Object-Oriented Programming to ensure a solid understanding.**
 
 ### DAY 1
  - Palindrome checker
@@ -39,4 +39,9 @@ This repository is where I document my journey of learning machine learning from
 <br>
 
 ## Week 2
-**Reviewing Object-Oriented Programming with Python, including topics such as classes and instances, class methods, static methods, and dunder methods, and its four principles to ensure a maintainable and readable programs.**
+**Learning commonly used Data Science modules such as Pandas, Numpy, and Matplotlib.**
+
+### DAY 8
+ - Watched and followed through half of ***freeCodeCamp***'s *"Object Oriented Programming with Python - Full Course for Beginners"* : https://www.youtube.com/watch?v=Ej_02ICOIgs
+ - Started learning about the pandas library with ***Corey Schafer***'s "*Pandas Tutorial*": https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS
+ - Looked through a lot of interesting dataset before I started exploring dataframes and I found ***Rachel Tatman***'s *Digimon datasets*: https://www.kaggle.com/datasets/rtatman/digidb 
