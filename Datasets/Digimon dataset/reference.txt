@@ -1,4 +1,4 @@
 Digimon Database 
-by Rachel Tatman
+by Rachael Tatman
 
 Link: https://www.kaggle.com/datasets/rtatman/digidb

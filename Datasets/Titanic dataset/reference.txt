@@ -1,0 +1,4 @@
+Titanic - Machine Learning from Disaster
+by kaggle
+
+Link: https://www.kaggle.com/competitions/titanic/data
