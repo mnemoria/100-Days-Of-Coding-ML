@@ -54,5 +54,5 @@ This repository is where I document my journey of learning machine learning from
  - Completed ***freeCodeCamp***'s *"Object Oriented Programming with Python - Full Course for Beginners"* : https://www.youtube.com/watch?v=Ej_02ICOIgs.
  - Explored the difference between instance methods, class methods, and static methods more. 
  - Learned more about dunder methods.
- - 
+ - Finished trying loc and iloc in pandas.
  - Side note: As a person who's familiar with how getters and setters work in Java, the pythonic way of writing getters and setters was really interesting! 
