@@ -47,4 +47,12 @@ This repository is where I document my journey of learning machine learning from
  - Looked through a lot of interesting dataset before I started exploring dataframes and I found ***Rachel Tatman***'s *Digimon datasets*: https://www.kaggle.com/datasets/rtatman/digidb 
 
 ### DAY 9
+ - Watched 30 minutes more of ***freeCodeCamp***'s *"Object Oriented Programming with Python - Full Course for Beginners"* : https://www.youtube.com/watch?v=Ej_02ICOIgs. Will be finishing the remaining time tomorrow.
+ - Still improving my knowledge in OOP with Python while working with pandas library in the background.
+
+### DAY 10
+ - Completed ***freeCodeCamp***'s *"Object Oriented Programming with Python - Full Course for Beginners"* : https://www.youtube.com/watch?v=Ej_02ICOIgs.
+ - Explored the difference between instance methods, class methods, and static methods more. 
+ - Learned more about dunder methods.
  - 
+ - Side note: As a person who's familiar with how getters and setters work in Java, the pythonic way of writing getters and setters was really interesting! 
