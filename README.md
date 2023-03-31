@@ -5,7 +5,7 @@ This repository is where I document my journey of learning machine learning from
 <br>
 
 ## Week 1
-**Reviewing the fundamentals of Python, including topics such as variables, operations, control flow, commonly used data structures, and Object-Oriented Programming to ensure a solid understanding.**
+**Reviewing the fundamentals of Python, including topics such as variables, operations, control flow, commonly used data structures to ensure a solid understanding.**
 
 ### DAY 1
  - Palindrome checker
@@ -39,7 +39,7 @@ This repository is where I document my journey of learning machine learning from
 <br>
 
 ## Week 2
-**Learning commonly used Data Science modules such as Pandas, Numpy, and Matplotlib.**
+**Learning Object-Oriented Programming in Python as well as commonly used Data Science modules such as Pandas**
 
 ### DAY 8
  - Watched and followed through half of ***freeCodeCamp***'s *"Object Oriented Programming with Python - Full Course for Beginners"* : https://www.youtube.com/watch?v=Ej_02ICOIgs
@@ -56,3 +56,8 @@ This repository is where I document my journey of learning machine learning from
  - Learned more about dunder methods.
  - Finished trying loc and iloc in pandas.
  - Side note: As a person who's familiar with how getters and setters work in Java, the pythonic way of writing getters and setters was really interesting! 
+
+### DAY 11
+ - Learned how to set, reset, and use indexes in Pandas
+ - Read more about dunder methods, tried practicing some of it [init, new].
+ - Tried exploring more about property decorators and learned that aside from getters and setters, there are also deleters.
