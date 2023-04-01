@@ -61,3 +61,6 @@ This repository is where I document my journey of learning machine learning from
  - Learned how to set, reset, and use indexes in Pandas
  - Read more about dunder methods, tried practicing some of it [init, new].
  - Tried exploring more about property decorators and learned that aside from getters and setters, there are also deleters.
+
+### DAY 12
+ - Tried filtering rows and columns using conditionals to find specific information. 
