@@ -64,3 +64,7 @@ This repository is where I document my journey of learning machine learning from
 
 ### DAY 12
  - Tried filtering rows and columns using conditionals to find specific information. 
+
+### DAY 13 
+ - Created an article on medium titled *"Diving Deeper into Object-Oriented Programming with Python"* : https://medium.com/p/25141c8278d0
+ - Learned how to update column names in pandas
