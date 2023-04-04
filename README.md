@@ -68,3 +68,17 @@ This repository is where I document my journey of learning machine learning from
 ### DAY 13 
  - Created an article on medium titled *"Diving Deeper into Object-Oriented Programming with Python"* : https://medium.com/p/25141c8278d0
  - Learned how to update column names in pandas
+
+### DAY 14
+ - Practiced my Python skills on http://codewars.com. Was able to rank up from 8kyu to 7kyu.
+
+## Week 3
+**Creating a project to improve my proficiency in Object-Oriented Programming and the SOLID Principle.**
+
+### DAY 15
+ - Created the library's structure with the influence of the given schematic diagram: 
+
+1. https://drive.google.com/file/d/1ZPhnN4_AyYcx_VrHHqu-c8X_JS-nUISw/view?usp=sharing
+2. https://drive.google.com/file/d/1QNLPYgxornFOO2kFnyXeCM1geHDIZAuB/view?usp=share_link
+
+- Practiced my Python skills on http://codewars.com. 
