@@ -1,0 +1,1 @@
+Started doing the Data Science Library: https://github.com/mnemoria/aia
